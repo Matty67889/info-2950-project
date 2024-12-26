@@ -7,7 +7,10 @@ downloaded from
 
 ## Conda Environment Setup
 
-The Python environment was created using **Anaconda 2.6.2** and creating an environment within the Anaconda Navigator with **Python 3.12**. The following packages were installed in the environment:
+The Python environment was created using **Anaconda 2.6.2**
+and creating an environment within the Anaconda Navigator
+with **Python 3.12**. The following packages were installed
+in the environment:
 
 - `jupyter`
 - `pandas`
@@ -19,8 +22,9 @@ Packages can also be installed using
 
 ## Usage
 
-1. Set up a Conda Environment installing the packages outlined in [this reference](#conda-environment-setup).
-2. Run the Jupyter Notebook in the created Kernel.
+1. Set up a Conda Environment installing the packages
+2. outlined in [this reference](#conda-environment-setup).
+3. Run the Jupyter Notebook in the created Kernel.
 
 ## Sources
 
